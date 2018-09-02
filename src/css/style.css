@@ -1,0 +1,11 @@
+.header {
+    font-size: 15rem !important;
+    text-align: center;
+}
+.buttons {
+    display: flex;
+}
+.buttons .btn {
+    flex: 1;
+    margin: 0 10px;
+}
